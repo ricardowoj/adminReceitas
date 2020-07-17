@@ -39,7 +39,6 @@ PyNaCl==1.1.2
 pyRFC3339==1.0
 python-dateutil==1.5
 python-debian==0.1.32
-python-xapp==1.8.1
 python-xlib==0.20
 pytz==2018.3
 pyxdg==0.25
